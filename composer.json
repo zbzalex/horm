@@ -1,0 +1,13 @@
+{
+    "name": "zbzalex/horm",
+    "type": "library",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "horm\\": "src/horm/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8.0.0"
+    }
+}
